@@ -1,0 +1,7 @@
+"Measure Name","Measure ID","Score","Footnote","Measure Start Date","Measure End Date"
+"Central line-associated bloodstream infections (CLABSI) in ICUs and select wards","HAI_1_SIR","1","","01/01/2015","12/31/2015"
+"Catheter-associated urinary tract infections (CAUTI) in ICUs and select wards","HAI_2_SIR","1","","01/01/2015","12/31/2015"
+"Surgical Site Infection from colon surgery (SSI: Colon)","HAI_3_SIR","1","","01/01/2015","12/31/2015"
+"Surgical Site Infection from abdominal hysterectomy (SSI: Hysterectomy)","HAI_4_SIR","1","","01/01/2015","12/31/2015"
+"Methicillin-resistant Staphylococcus Aureus (MRSA) Blood Laboratory-identified Events (Bloodstream infections)","HAI_5_SIR","1","","01/01/2015","12/31/2015"
+"Clostridium difficile (C.diff.) Laboratory-identified Events (Intestinal infections)","HAI_6_SIR","1","","01/01/2015","12/31/2015"
